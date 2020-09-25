@@ -1,4 +1,4 @@
-# face-book
-The hack club face-book!
+# hackbook
+The hack club hackbook!
 
 (I know the name's bad, we can work on it)
